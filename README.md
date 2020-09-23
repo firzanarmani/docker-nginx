@@ -5,7 +5,8 @@ This repository contains the files needed to
 
 ## Usage
 ```shellscript
-# Build the image with the tag 'docker-nginx' using the Dockerfile in the current directory
+# Build the image with the tag 'docker-nginx' 
+# using the Dockerfile in the current directory
 docker build -t docker-nginx .
 
 # Run a container of the image tagged 'docker-nginx' and 
